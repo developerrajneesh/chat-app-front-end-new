@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[829],{5027:(e,c,i)=>{i.d(c,{Serializer:()=>l.h});var l=i(7206)}}]);
